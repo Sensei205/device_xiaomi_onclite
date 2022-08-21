@@ -286,6 +286,10 @@ PRODUCT_PACKAGES += \
     netutils-wrapper-1.0 \
     android.system.net.netd@1.1.vendor \
     libandroid_net
+	
+# GoogleCameraGo
+PRODUCT_PACKAGES += \
+    GoogleCameraGo	
 
 # Neural networks
 PRODUCT_PACKAGES += \
